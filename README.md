@@ -6,7 +6,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/unow.iv/?next=%2F)
 
-
-</div> 
-  ![Snake animation](https://github.com/unowiv/unowiv/blob/output/github-contribution-grid-snake.svg)
-</div>
