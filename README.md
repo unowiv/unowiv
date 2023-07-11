@@ -1,6 +1,13 @@
+<!--Apresentação-->
+<h1> Olá! Eu sou Isabelli Vitória <img align='center' alt="Emoji-Icon" height="30px" width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/wilted-flower_1f940.gif">
+</h1>
+
 <!--Informações pessoais-->
-## Olá! Eu sou a Isabelli Vitória🥀
-### Tenho 17 anos⚡ 
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/pushpin_1f4cc.png"> Tenho 17 anos
+  
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/woman-technologist_1f469-200d-1f4bb.png"> Foco em Front-end
+
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/source/microsoft-teams/363/woman-student_1f469-200d-1f393.png"> Técnico em Informática
 
 </br>
 
@@ -12,12 +19,10 @@
 <a href = "mailto:isabelliv797@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </br>
-
 <!-- Dados do GitHub -->
 <div align='center'>
     <a href="https://github.com/unowiv">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=unowiv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=unowiv&layout=compact&langs_count=7&theme=dark">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=unowiv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
 </div>
 
