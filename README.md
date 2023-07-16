@@ -28,5 +28,3 @@
 
 <!--Cobrinha-->
 ![snake gif](https://github.com/unowiv/unowiv/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation](https://github.com/unowiv/unowiv/blob/output/github-contribution-grid-snake.svg)
