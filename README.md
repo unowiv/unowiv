@@ -26,6 +26,3 @@
     </a>
 </div>
 
-<!--Cobrinha-->
-![Snake animation](https://github.com/unowiv/unowiv/blob/output/github-contribution-grid-snake.svg)
-
