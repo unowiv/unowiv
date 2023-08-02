@@ -3,11 +3,11 @@
 </h1>
 
 <!--Informações pessoais-->
-- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/pushpin_1f4cc.png"> Tenho 17 anos
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/pushpin_1f4cc.png"> Tenho 17 anos.
   
-- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/woman-technologist_1f469-200d-1f4bb.png"> Foco em Front-end
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/thumbs/120/apple/354/woman-technologist_1f469-200d-1f4bb.png"> Foco em Front-end.
 
-- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/source/microsoft-teams/363/woman-student_1f469-200d-1f393.png"> Técnico em Informática
+- <img align='center' alt="Emoji - Icon" height="26px" width="26px" src="https://em-content.zobj.net/source/microsoft-teams/363/woman-student_1f469-200d-1f393.png"> Técnico em Informática.
 
 </br>
 
