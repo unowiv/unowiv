@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["HTML|CSS|Javascript"];
+  linguagens = ["HTML|CSS|Javascript|Python"];
 }
 ```
 <!--Redes Sociais-->
