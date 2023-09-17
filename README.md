@@ -5,7 +5,7 @@ import Desenvolvedor from "unowiv";
 class SobreMim extends Desenvolvedor {
   nome = "Isabelli Vitória";
   idade = "17 anos";
-  procurando = "A procura do primeiro emprego";
+  emprego = "A procura do primeiro emprego";
   area = "Front-end e Ux designer";
 }
 
